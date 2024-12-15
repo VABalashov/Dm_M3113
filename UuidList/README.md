@@ -45,8 +45,11 @@ XXXXXXXX-XXXX-4XXX-VXXX-XXXXXXXXXXXX
 
 ## Порядок сдачи
 Нужно создать приватный репозиторий на гитхабе и пригласить grumbletumbles и xyliganSereja (settings -> access -> collaborators -> add people)
+
 Создать пустую ветку feedback, в ней не должно ничего быть(!)
+
 Запушить код в master, после этого открыть ПР из master в feedback
+
 Не мерджить(!)
 
 ## Дедлайн
