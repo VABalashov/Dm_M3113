@@ -44,10 +44,10 @@ XXXXXXXX-XXXX-4XXX-VXXX-XXXXXXXXXXXX
 * Все edge-кейсы(номер выходит за границы, передан невалидный uuid и т.д.) корректно обрабатываются 
 
 ## Порядок сдачи
-Нужно создать приватный репозиторий на гитхабе и прегласить grumbletumbles (settings -> access -> collaborators -> add people)
+Нужно создать приватный репозиторий на гитхабе и пригласить grumbletumbles и xyliganSereja (settings -> access -> collaborators -> add people)
 Создать пустую ветку feedback, в ней не должно ничего быть(!)
 Запушить код в master, после этого открыть ПР из master в feedback
 Не мерджить(!)
 
 ## Дедлайн
-21.12.2024 23:59
+28.12.2024 23:59
