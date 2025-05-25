@@ -36,4 +36,4 @@ test(no_path, [fail]) :-
 
 :- end_tests(dfs).
 
-
+%l-------
